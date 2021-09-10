@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @MohiniNandela
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Github
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ...
-- mail id 
+
+xyz.123@ymail.com
